@@ -19,13 +19,13 @@ Aplicativo Windows em C# para restaurar arquivos `.sql` ou `.gz` em uma base MyS
 Exemplo de caminho convertido:
 
 ```text
-E:\Projetos\Aldebaran\Databases\202605\dump.sql.gz
+E:\Projetos\DatabaseRestore\Databases\202605\dump.sql.gz
 ```
 
 vira:
 
 ```text
-/mnt/e/Projetos/Aldebaran/Databases/202605/dump.sql.gz
+/mnt/e/Projetos/DatabaseRestore/Databases/202605/dump.sql.gz
 ```
 
 ## Como usar
