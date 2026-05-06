@@ -5,6 +5,7 @@ public partial class Form1 : Form
     public Form1()
     {
         InitializeComponent();
+        Icon = Icon.ExtractAssociatedIcon(Application.ExecutablePath);
     }
 
     private void BtnBrowse_Click(object? sender, EventArgs e)
