@@ -2,6 +2,10 @@
 
 Aplicativo Windows em C# para restaurar arquivos `.sql` ou `.gz` em uma base MySQL usando uma instancia WSL.
 
+## Tela do aplicativo
+
+![Tela principal do DatabaseRestore](docs/screenshot-main.png)
+
 ## O que o aplicativo faz
 
 - Seleciona um arquivo local do Windows com extensao `.sql` ou `.gz`.
